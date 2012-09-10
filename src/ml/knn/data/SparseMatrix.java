@@ -1,4 +1,4 @@
-package ml.homework.knn.data;
+package ml.knn.data;
 
 import java.util.HashMap;
 import java.util.Iterator;

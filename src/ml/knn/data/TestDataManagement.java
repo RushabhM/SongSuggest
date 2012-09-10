@@ -1,4 +1,4 @@
-package ml.homework.knn.data;
+package ml.knn.data;
 
 import java.io.BufferedReader;
 import java.io.DataInputStream;

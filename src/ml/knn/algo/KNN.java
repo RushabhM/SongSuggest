@@ -1,4 +1,4 @@
-package ml.homework.knn.algo;
+package ml.knn.algo;
 
 import java.util.ArrayList;
 import java.util.Comparator;
